@@ -23,6 +23,7 @@ public class MobileDealPage extends DriverFactory {
         //driver.findElement(By.xpath("//*[@id=\"accessible-megamenu-1600459534955-4\"]/span[1]")).click();
         //actions.moveToElement(driver.findElement(By.cssSelector("span[class='js-eed-off-nav-menu-text eed-off-nav-menu__text eed--hover']"))).build().perform();
         //actions.moveToElement(driver.findElement(By.linkText("Pay monthly phones"))).click().build().perform();
+        //can't find right frame
     }
 
 }
